@@ -155,7 +155,7 @@ return [
     'NA' => 'Namibia',
     'NR' => 'Nauru',
     'NP' => 'Nepal',
-    'NL' => 'Netherlands',
+    'NL' => 'The Netherlands',
     'NC' => 'New Caledonia',
     'NZ' => 'New Zealand',
     'NI' => 'Nicaragua',
